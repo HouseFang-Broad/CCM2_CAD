@@ -13,5 +13,5 @@ Raw data: [GEO GSE315884]
 ## Cell Painting
 
 Morphological profiling using the Cell Painting assay in two in vitro systems (U2OS and teloHAECs). 
-U2OS: [cell_paitning/U2OS/README.md](cell_paitning/U2OS/README.md)
-teloHAEC: [cell_painting/teloHAEC/](cell_paitning/teloHAEC/)
+U2OS: [cell_painting/U2OS/README.md](cell_painting/U2OS/README.md)
+teloHAEC: [cell_painting/teloHAEC/](cell_painting/teloHAEC/)
